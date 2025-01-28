@@ -4,7 +4,7 @@ document.querySelector(".btn").addEventListener("click", function () {
   var cvUrl = './Onkar_Shelar_Resume.pdf';
   var link = document.createElement("a");
   link.href = cvUrl;
-  link.download = "Om-CV.pdf";
+  link.download = "Onkar_Shelar_Resume.pdf";
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
