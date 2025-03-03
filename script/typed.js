@@ -1,6 +1,6 @@
 var options = {
   strings: [
-    '<span class="typed-react">ReactJs</span>','<span class="typed-react">AngularJs</span>','<span class="typed-react">VueJs</span>',
+    '<span class="typed-react">ReactJs</span>','<span class="typed-react">NextJs</span>','<span class="typed-react">AngularJs</span>','<span class="typed-react">VueJs</span>',
     '<span class="typed-node">NodeJs</span>','<span class="typed-node">ExpressJs</span>',
     '<span class="typed-da">Data Analysis</span>',
     '<span class="typed-firebase">Firebase</span>', 
